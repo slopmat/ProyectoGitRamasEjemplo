@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Helllo mundo
+  m_Text: Wola mundo
 --- !u!222 &135143404
 CanvasRenderer:
   m_ObjectHideFlags: 0
