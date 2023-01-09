@@ -194,7 +194,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: Wola mundo
+=======
+  m_Text: Hola mundo
+>>>>>>> parent of a3fce4f (Hola por Hello)
 --- !u!222 &135143404
 CanvasRenderer:
   m_ObjectHideFlags: 0
